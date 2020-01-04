@@ -1,6 +1,8 @@
 # CampyGoLucky
 
-Created by Iris Silverman, Brittan Fairchild, and Katana Tran
+Created by Iris Silverman, Brittan Fairchild, and Katana Tran.
+
+![CampyGoLucky sign in screen](https://github.com/ayerest/CampyGoLucky/blob/master/campygolucky.png)
 
 ## Motivation 
 
@@ -12,7 +14,9 @@ We wanted to create an app that would let you plan a hiking and camping themed r
 
 ## Features
 
-Features include a map that populates campsite markers within a 30 mile radius of a destination selected by the user. Users can click any campsite marker on the map to view detailed information about the campsite, live 4 day weather forecast for the area, or populate trail markers nearby the campsite. Users can select and add campsites to their roadtrip and then view those campsites as waypoints along their trip using the Google Maps directions API.
+Features include a map that populates campsite markers within a 30 mile radius of a destination selected by the user. Users can click any campsite marker on the map to view detailed information about the campsite, live 5 day weather forecast for the area, or populate trail markers nearby the campsite. Users can select and add campsites to their roadtrip and then view those campsites as waypoints along their trip using the Google Maps directions API.
+
+![Campground markers and camp info window pop-up on Google Map](https://github.com/ayerest/CampyGoLucky/blob/master/campground.png)
 
 ## Instructions
 
